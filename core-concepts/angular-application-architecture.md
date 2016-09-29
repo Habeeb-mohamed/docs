@@ -22,7 +22,7 @@ In this article we are going to go through the core concepts of the Angular 2 fr
 
 # Components
 
-Components are the main building block of Angluar 2 applications. They define the application UI and the logic that controls it. Let's take look at the following component:
+Components are the main building block of Angular 2 applications. They define the application UI and the logic that controls it. Let's take look at the following component:
 
 ``` TypeScript
 import {Component} from "@angular/core";
